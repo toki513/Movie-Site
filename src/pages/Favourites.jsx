@@ -4,7 +4,7 @@ const Favourites = () => {
   return (
     <div>Favourite
 
-      <h1>Nothing to showw hereeee</h1>
+      <h1>Nothing to show hereeee</h1>
     </div>
   )
 }
